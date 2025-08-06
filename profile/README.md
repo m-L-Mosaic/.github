@@ -95,7 +95,7 @@ my-synthesis-project/
 └── build/               # Compiled outputs
 ```
 
-## 🛠️ Development
+## Development
 
 ### Build from Source
 ```bash
@@ -164,7 +164,7 @@ loop {
 }
 ```
 
-## 📚 Learn More
+## Learn More
 
 - **Documentation**: [synthesis-lang.org/docs](https://synthesis-lang.org/docs)
 - **Tutorials**: [synthesis-lang.org/tutorials](https://synthesis-lang.org/tutorials)  
